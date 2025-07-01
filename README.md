@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### نصب
 1. مخزن را کلون کنید:
 ```
-git clone https://github.com/yourusername/sqlite-to-mysql.git
+git clone https://github.com/Argh94/sqlite-to-mysql.git
 cd sqlite-to-mysql
 ```
 
@@ -152,10 +152,10 @@ time python sqlite_to_mysql.py large_db.db output.sql \
 
 ## ❓ پشتیبانی
 
-برای گزارش باگ یا درخواست ویژگی‌ها، لطفاً از بخش [Issues](https://github.com/yourusername/sqlite-to-mysql/issues) استفاده کنید.
+برای گزارش باگ یا درخواست ویژگی‌ها، لطفاً از بخش [Issues](https://github.com/Argh94/sqlite-to-mysql/issues) استفاده کنید.
 
 برای سوالات فوری:
-- ایمیل: support@domain.com
+- ایمیل: Argh7394@gmail.com
 - تلگرام: [@sqlite2mysql_support](https://t.me/sqlite2mysql_support)
 
 **تبدیل بدون دردسر دیتابیس‌های SQLite به MySQL با حفظ یکپارچگی داده‌ها و ساختارها!** 🚀
